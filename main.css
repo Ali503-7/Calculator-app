@@ -243,3 +243,11 @@
   background-color: hsla(268, 48%, 21%, 0.671);
 }
 
+@media (max-width: 500px) {
+  .contaner {
+    width: 350px;
+  }
+  .COwhite {
+    font-size: 25px;
+  }
+}
